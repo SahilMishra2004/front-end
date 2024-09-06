@@ -1,0 +1,12 @@
+.b1{
+    padding: 20px 40px;
+    margin: 30px;
+    margin-left: 50%;
+    border-radius: 30px;
+    background-color: rgb(92, 92, 235);
+}
+.l{
+    display: block;
+    font-size: 40px;
+    text-align: center;
+}

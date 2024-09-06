@@ -1,0 +1,30 @@
+#container{
+    text-align: center;
+    font-size: 2em;
+}
+button{
+    font-size: 1.25em;
+    padding: 10px 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(228, 115, 9);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(159, 81, 8);
+}
+button:active{
+    background-color: rgb(127, 72, 22);
+}
+input{
+    font-size: 2em;
+    width: 150px;
+    text-align: center;
+}
+#DiceResult{
+    margin: 25px;
+}
+#DiceImage img{
+    width: 150px;
+}

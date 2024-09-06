@@ -1,0 +1,17 @@
+#box1{
+    display: block;
+    font-size: 150px;
+    text-align: center;
+}
+#b{
+    text-align: center; 
+}
+.bu{
+    padding: 20px 40px;
+    margin: 30px;
+    border-radius: 50px;
+    background-color:rgb(52, 205, 36);
+}
+.bu:hover{
+    background-color:rgb(40, 143, 28);
+}
